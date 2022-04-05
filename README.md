@@ -1,3 +1,6 @@
 ![AMAZON LOGO](https://user-images.githubusercontent.com/97951021/161756602-8ec0c388-1a78-4dcf-8ac8-fd47c836c542.png)
-# Stage-E-Data-Curation-on-Amazon-
-Amazon Books Data Analysis for year 2009 - 2019
+# DATA CURATION ON AMAZON BEST SELLING BOOKS BETWEEN 2009 - 2019
+
+The curated data for best selling books for each year can be found in the AMAZON BOOKS 2009-2019 DIRECTORY
+
+The Exploratory Data Analysis and Data Wrangling is seen in DATA CURATION STAGE E_HAMOYE.IPYNB
